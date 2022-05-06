@@ -16,4 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+
+```text
+HTML          2 hrs 49 mins   ████████▒░░░░░░░░░░░░░░░░   33.50 %
+Markdown      1 hr 38 mins    █████░░░░░░░░░░░░░░░░░░░░   19.40 %
+Python        1 hr 33 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.37 %
+Lua           1 hr            ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
+Rust          39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+Text          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+```
+
 <!--END_SECTION:waka-->
