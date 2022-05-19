@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-RMarkdown   7 hrs 8 mins    ███████▒░░░░░░░░░░░░░░░░░   29.46 %
-Bash        5 hrs 27 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.56 %
-conf        3 hrs 59 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.49 %
-JSON        1 hr 56 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
-sh          1 hr 44 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
-Clojure     1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+Bash        5 hrs 17 mins   ████████▒░░░░░░░░░░░░░░░░   33.65 %
+RMarkdown   2 hrs 32 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
+conf        2 hrs 29 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
+Python      1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+sh          57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+Lua         39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
 ```
 
 <!--END_SECTION:waka-->
