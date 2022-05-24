@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript    3 hrs 57 mins   █████░░░░░░░░░░░░░░░░░░░░   20.24 %
-Python        3 hrs 7 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
-RMarkdown     2 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
-Lua           1 hr 52 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
-LESS          1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
-Other         59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+JavaScript    3 hrs 57 mins   █████░░░░░░░░░░░░░░░░░░░░   19.50 %
+Python        3 hrs 7 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
+RMarkdown     2 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
+Lua           1 hr 52 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
+LESS          1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+Text          1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
 ```
 
 <!--END_SECTION:waka-->
