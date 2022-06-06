@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-RMarkdown    17 hrs 16 mins  ███████████▒░░░░░░░░░░░░░   45.89 %
-Lua          7 hrs 9 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
-conf         2 hrs 33 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-kbd          2 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-Bash         1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-Other        53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+RMarkdown    14 hrs 14 mins  ████████▒░░░░░░░░░░░░░░░░   33.18 %
+Lua          8 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   18.69 %
+Bash         4 hrs 58 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
+kbd          2 hrs 56 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+conf         2 hrs 42 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+Other        1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
 ```
 
 <!--END_SECTION:waka-->
