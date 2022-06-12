@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Lua           11 hrs 14 mins  ██████░░░░░░░░░░░░░░░░░░░   23.59 %
-conf          6 hrs 14 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
-Haskell       5 hrs 58 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
-Bash          5 hrs 40 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
-Other         4 hrs 20 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
+Haskell       9 hrs 46 mins   ██████░░░░░░░░░░░░░░░░░░░   23.71 %
+Lua           7 hrs           ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
+Bash          5 hrs 25 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
+Other         4 hrs 14 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
 ```
 
 <!--END_SECTION:waka-->
