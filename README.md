@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Haskell       9 hrs 46 mins   ██████░░░░░░░░░░░░░░░░░░░   23.71 %
-Lua           7 hrs           ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
-Bash          5 hrs 25 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
-Other         4 hrs 14 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
+Haskell       10 hrs 41 mins  ███████▒░░░░░░░░░░░░░░░░░   29.14 %
+Lua           6 hrs 1 min     ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
+Other         3 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
 ```
 
 <!--END_SECTION:waka-->
