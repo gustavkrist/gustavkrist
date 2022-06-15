@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Haskell      10 hrs 41 mins  █████████░░░░░░░░░░░░░░░░   35.66 %
-Lua          4 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
-conf         3 hrs 14 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
-JavaScript   2 hrs 56 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
-Other        2 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
+Haskell      10 hrs 41 mins  ██████████▒░░░░░░░░░░░░░░   41.26 %
+JavaScript   2 hrs 57 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+conf         2 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
+Other        1 hr 53 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
 ```
 
 <!--END_SECTION:waka-->
