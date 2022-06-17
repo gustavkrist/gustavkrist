@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Haskell      10 hrs 43 mins  ██████████▒░░░░░░░░░░░░░░   41.33 %
-JavaScript   2 hrs 57 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
-conf         2 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
-Other        1 hr 53 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+Haskell      10 hrs 21 mins  ████████████░░░░░░░░░░░░░   48.25 %
+JavaScript   2 hrs 59 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
+Other        1 hr 56 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
 ```
 
 <!--END_SECTION:waka-->
