@@ -18,12 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Lua          2 hrs 1 min     █████████▓░░░░░░░░░░░░░░░   38.31 %
-Markdown     1 hr 31 mins    ███████░░░░░░░░░░░░░░░░░░   28.58 %
-Python       1 hr 5 mins     █████▒░░░░░░░░░░░░░░░░░░░   20.71 %
-CSS          30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
-JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
