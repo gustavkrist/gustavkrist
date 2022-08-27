@@ -18,10 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Lua      10 mins         ████████████▒░░░░░░░░░░░░   48.85 %
-Python   7 mins          ████████▓░░░░░░░░░░░░░░░░   34.05 %
-conf     3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
-sh       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
