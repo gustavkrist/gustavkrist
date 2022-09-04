@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python       1 hr 16 mins    █████████████████▒░░░░░░░   68.89 %
+TeX          14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 %
+Other        8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
 ```
 
 <!--END_SECTION:waka-->
