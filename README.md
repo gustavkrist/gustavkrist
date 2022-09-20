@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python     2 hrs 24 mins   ████████████████▒░░░░░░░░   65.36 %
-SQL        1 hr 15 mins    ████████▒░░░░░░░░░░░░░░░░   33.94 %
-CSV        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python     2 hrs 24 mins   ████████████████████████▓   98.95 %
+CSV        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+TeX        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
