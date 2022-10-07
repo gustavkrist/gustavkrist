@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-CSS          3 hrs 15 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.95 %
-Python       3 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░   20.55 %
-SQL          1 hr 59 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
-Lua          1 hr 49 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
-Vim Script   1 hr 44 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
-LESS         1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+CSS          3 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   20.24 %
+Python       3 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   19.40 %
+SQL          1 hr 59 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
+Vim Script   1 hr 44 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
+Lua          1 hr 40 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
+LESS         1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
 ```
 
 <!--END_SECTION:waka-->
