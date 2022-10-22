@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Haskell      3 hrs 36 mins   █████░░░░░░░░░░░░░░░░░░░░   19.78 %
-Vue.js       2 hrs 38 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
-CSS          2 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
-JavaScript   1 hr 58 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
-Python       1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
-SQL          1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+Haskell      3 hrs 36 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.87 %
+Vue.js       2 hrs 33 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
+CSS          2 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
+JavaScript   1 hr 57 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
+SQL          1 hr 45 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
+dot          38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
 ```
 
 <!--END_SECTION:waka-->
