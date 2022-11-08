@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python      3 hrs 36 mins   ████████▓░░░░░░░░░░░░░░░░   34.97 %
-Lua         1 hr 33 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.12 %
-Bash        1 hr 29 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
-kitty       1 hr 18 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
-Other       35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+Python      3 hrs 47 mins   ████████▓░░░░░░░░░░░░░░░░   34.39 %
+Lua         1 hr 44 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
+Bash        1 hr 35 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
+kitty       1 hr 19 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
+Other       42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
 ```
 
 <!--END_SECTION:waka-->
