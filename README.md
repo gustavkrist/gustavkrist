@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python        9 hrs 37 mins   █████████████░░░░░░░░░░░░   51.68 %
-Common Lisp   2 hrs 35 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
-SQL           1 hr 56 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
-Lua           1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-Text          57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-Vim Script    25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Python        7 hrs 9 mins    ██████████░░░░░░░░░░░░░░░   39.50 %
+Common Lisp   4 hrs 26 mins   ██████░░░░░░░░░░░░░░░░░░░   24.52 %
+SQL           1 hr 56 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+Lua           1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+Text          1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+Vim Script    27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 ```
 
 <!--END_SECTION:waka-->
