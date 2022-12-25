@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python        32 hrs 47 mins  █████████████████████░░░░   83.50 %
-SQL           1 hr 47 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-Text          1 hr 39 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-Markdown      1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-Common Lisp   57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-TeX           12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Python        29 hrs 56 mins  ██████████████████████▓░░   90.30 %
+Text          1 hr 46 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+Common Lisp   57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+TeX           12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+JavaScript    5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+JSON          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
