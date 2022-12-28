@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python        22 hrs 14 mins  ███████████████████▓░░░░░   79.32 %
-Text          2 hrs 7 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-Common Lisp   2 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
-Lua           58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-YAML          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-JavaScript    5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Python        15 hrs 13 mins  ███████████████████░░░░░░   75.94 %
+Text          1 hr 51 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+Common Lisp   1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+Lua           58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+YAML          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+JavaScript    5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
