@@ -18,12 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TeX          7 hrs 37 mins   ███████████▓░░░░░░░░░░░░░   46.09 %
-Python       5 hrs 21 mins   ████████░░░░░░░░░░░░░░░░░   32.40 %
-Limbo        1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
-Brainfuck    26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-Lua          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-Other        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+TeX          9 hrs 30 mins   ███████████████░░░░░░░░░░   59.62 %
+Python       3 hrs 27 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.65 %
+Limbo        1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+Brainfuck    26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 ```
 
 <!--END_SECTION:waka-->
