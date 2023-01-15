@@ -18,12 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python      2 hrs 41 mins   ███████████████▓░░░░░░░░░   63.18 %
-TeX         1 hr 14 mins    ███████▒░░░░░░░░░░░░░░░░░   29.04 %
-YAML        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-gitignore   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-Vue.js      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Docker      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+YAML     2 hrs 7 mins    ████████████████▓░░░░░░░░   67.31 %
+Python   59 mins         ████████░░░░░░░░░░░░░░░░░   31.38 %
+Docker   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
