@@ -18,8 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python   4 mins          ████████████████████████▓   98.11 %
-Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Python      1 hr 19 mins    ███████████████████████░░   91.49 %
+Lua         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+sshconfig   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+gitignore   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+INI         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
