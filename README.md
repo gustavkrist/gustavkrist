@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-YAML     12 mins         ████████████████████████▒   96.83 %
-Python   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+Python   52 mins         ██████████████████▓░░░░░░   74.39 %
+YAML     17 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.61 %
 ```
 
 <!--END_SECTION:waka-->
