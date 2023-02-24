@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python   52 mins         ██████████████████▓░░░░░░   74.39 %
-YAML     17 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.61 %
+TeX      2 hrs 5 mins    ████████████░░░░░░░░░░░░░   48.49 %
+Python   1 hr 53 mins    ███████████░░░░░░░░░░░░░░   43.91 %
+YAML     17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+Bash     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
