@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python      1 hr 27 mins    █████████████████████▒░░░   85.51 %
-gitignore   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-Other       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Python      1 hr 59 mins    ████████████████████▓░░░░   82.91 %
+YAML        17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
+gitignore   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+HTML        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
