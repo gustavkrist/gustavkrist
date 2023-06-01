@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Bash         26 mins         ██████████▒░░░░░░░░░░░░░░   41.58 %
-Python       13 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.74 %
-YAML         9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
-Text         8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
-Dockerfile   6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+TeX     2 hrs 48 mins   ████████████████████████▓   99.21 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Lua     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
