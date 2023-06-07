@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TeX        6 hrs 20 mins   ███████████████████████▓░   94.80 %
-BibTeX     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-Markdown   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Lua        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+TeX        4 hrs 28 mins   ███████████████████████▒░   93.23 %
+BibTeX     9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Markdown   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Lua        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
