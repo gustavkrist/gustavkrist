@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TeX        10 mins         ███████████████▓░░░░░░░░░   62.05 %
-Markdown   6 mins          █████████▒░░░░░░░░░░░░░░░   37.95 %
+Dockerfile   19 mins         ████████████████████▒░░░░   81.49 %
+YAML         4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
+Python       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
