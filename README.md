@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Dockerfile   19 mins         ████████████████████▒░░░░   81.49 %
-YAML         4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
-Python       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+JavaScript   21 mins         █████████░░░░░░░░░░░░░░░░   36.36 %
+Dockerfile   19 mins         ████████▒░░░░░░░░░░░░░░░░   32.75 %
+Bash         7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
+Other        6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
+YAML         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
 ```
 
 <!--END_SECTION:waka-->
