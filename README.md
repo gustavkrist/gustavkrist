@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   31 mins         █████████████▒░░░░░░░░░░░   53.08 %
-Vim Script   13 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.27 %
-Bash         7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
-Other        6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
+Vim Script   13 mins         ██████████████▓░░░░░░░░░░   58.63 %
+JavaScript   9 mins          ██████████▒░░░░░░░░░░░░░░   41.37 %
 ```
 
 <!--END_SECTION:waka-->
