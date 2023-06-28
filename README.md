@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       30 mins         ███████████▒░░░░░░░░░░░░░   45.13 %
-Text         14 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.94 %
-Vim Script   13 mins         █████░░░░░░░░░░░░░░░░░░░░   19.89 %
-JavaScript   9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
+Python   30 mins         █████████████████░░░░░░░░   68.31 %
+Text     14 mins         ████████░░░░░░░░░░░░░░░░░   31.69 %
 ```
 
 <!--END_SECTION:waka-->
