@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Docker   24 mins         █████████████▒░░░░░░░░░░░   53.31 %
-Bash     16 mins         ████████▓░░░░░░░░░░░░░░░░   35.05 %
-Python   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
-Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Docker   24 mins         █████████████▒░░░░░░░░░░░   53.95 %
+Bash     16 mins         █████████░░░░░░░░░░░░░░░░   35.47 %
+Python   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 %
 ```
 
 <!--END_SECTION:waka-->
