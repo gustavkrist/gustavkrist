@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Docker   24 mins         ███████████░░░░░░░░░░░░░░   43.64 %
-Bash     16 mins         ███████▒░░░░░░░░░░░░░░░░░   28.69 %
-Python   11 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.78 %
-JSON     3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+Python   1 hr 6 mins     █████████████████████░░░░   83.47 %
+JSON     12 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
+Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
