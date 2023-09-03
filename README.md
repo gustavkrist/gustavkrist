@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Brainfuck        58 mins         ████████░░░░░░░░░░░░░░░░░   32.53 %
-Python           58 mins         ████████░░░░░░░░░░░░░░░░░   32.47 %
-GDScript         29 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
-Lua              15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
-Bash             8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+Python           1 hr 3 mins     ████████▓░░░░░░░░░░░░░░░░   34.09 %
+Brainfuck        58 mins         ████████░░░░░░░░░░░░░░░░░   31.62 %
+GDScript         29 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
+Lua              15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+Bash             9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
 ```
 
 <!--END_SECTION:waka-->
