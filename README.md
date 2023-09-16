@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python         4 hrs 6 mins    █████████████████████▓░░░   86.48 %
-C              20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
-JSON           6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-Lua            3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-ActionScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Python         4 hrs 5 mins    █████████████████████▓░░░   87.03 %
+C              20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+JSON           6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+ActionScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Objective-C    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
