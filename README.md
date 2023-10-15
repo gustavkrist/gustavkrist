@@ -18,11 +18,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 3 mins     ████████████████████▓░░░░   82.82 %
-Text     6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
-R        3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-Lua      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python   27 mins         █████████████████████▒░░░   85.46 %
+Text     4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 %
 ```
 
 <!--END_SECTION:waka-->
