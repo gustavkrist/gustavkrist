@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python      9 mins          ████████████▓░░░░░░░░░░░░   50.35 %
+Bash        4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
+GDScript    3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.99 %
+TSQL        1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+Brainfuck   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
