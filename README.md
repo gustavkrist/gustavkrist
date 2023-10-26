@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python      9 mins          ████████████▓░░░░░░░░░░░░   50.35 %
-Bash        4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
-GDScript    3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.99 %
-TSQL        1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
-Brainfuck   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Bash        11 mins         ██████████▓░░░░░░░░░░░░░░   42.70 %
+Python      9 mins          █████████▒░░░░░░░░░░░░░░░   36.95 %
+GDScript    3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.47 %
+TSQL        1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
+Brainfuck   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
