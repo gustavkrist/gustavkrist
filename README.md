@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         1 hr 21 mins    ██████████████▒░░░░░░░░░░   56.72 %
-YAML         42 mins         ███████▒░░░░░░░░░░░░░░░░░   29.14 %
-Bash         18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 %
-Vim Script   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+YAML         42 mins         ███████████████████████▓░   94.40 %
+Vim Script   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
