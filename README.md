@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-F#         10 hrs 16 mins  ██████████████████████░░░   87.58 %
-Markdown   1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
-C          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-Other      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Python     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+F#         8 hrs 4 mins    ██████████████████████░░░   87.84 %
+Markdown   1 hr 3 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
+Python     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
