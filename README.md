@@ -18,10 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-F#      1 hr 57 mins    █████████████████████░░░░   84.06 %
-YAML    18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
-zsh     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
