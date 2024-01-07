@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Bash   1 min           █████████████████████████   100.00 %
+Markdown   16 mins         ████████████████████████▓   98.82 %
+Bash       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
