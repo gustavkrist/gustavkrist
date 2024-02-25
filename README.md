@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         44 mins         ██████████████████████▓░░   90.29 %
-Vim Script   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
-S            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+YAML         44 mins         █████████████████████▒░░░   85.86 %
+Vim Script   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+XML          2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+S            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+gitignore    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
