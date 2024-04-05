@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         10 mins         █████████████░░░░░░░░░░░░   51.87 %
-Python       8 mins          ███████████▒░░░░░░░░░░░░░   45.24 %
-JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-sh           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Python       3 mins          █████████████████████▒░░░   85.41 %
+JavaScript   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+sh           0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
 ```
 
 <!--END_SECTION:waka-->
