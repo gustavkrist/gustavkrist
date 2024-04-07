@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       3 mins          █████████████████████▒░░░   85.41 %
-JavaScript   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
-sh           0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+XML          19 mins         ████████████████████▓░░░░   82.68 %
+Python       3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
+JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+F#           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+sh           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
