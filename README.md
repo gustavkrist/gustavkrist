@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Lua    3 mins          ████████████████████████▒   97.95 %
-JSON   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Lua    0 secs          ████████████████░░░░░░░░░   63.64 %
+JSON   0 secs          █████████░░░░░░░░░░░░░░░░   36.36 %
 ```
 
 <!--END_SECTION:waka-->
